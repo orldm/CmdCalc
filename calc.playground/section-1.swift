@@ -1,6 +1,4 @@
-// Playground - noun: a place where people can play
 
-//import Cocoa
 
 func evaluate(input: String) -> Int {
     var inString = input
